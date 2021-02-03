@@ -29,6 +29,9 @@
                     <li>
                          <a href="#!">Yasmani Tapia </a>
                          <br><h7>Parcial tipo A</h7>
+                         <input type="text" id='nombreCli'> 
+                        <button type="submit" class="btn btn-success">Buscar </button>
+                        
                     </li>
 
                 </ul>
